@@ -3,14 +3,25 @@
 This repository is a collection of coding projects from my Master's at UCL. 
 
 ## COMP0050: Machine Learning with Applications in Finance
-Topics: 
-Supervised and Unsupervised learning methods
+- Supervised Learning Topics: 
+    - Linear Regression 
+    - Bias-Variance Trade-Off, Cross-Validation
+    - Model/feature selection (Regularization)
+    - Logistic regression
+    - Trees and Forests, including Bagging and Bootstrapping
+    - Support vector machines
+    - Neural networks
 
-Projects: 
-- Real-time financial crisis prediction based on macroeconomic indicators (time series); This supervised learning project included feature engineering, oversampling, feature selection and data cleaning
-- Constructed a global minimum variance portfolio using different regularizers and sliding window validation to find optimal parameters
-- Applied clustering techniques and PCA on daily equity return data to find meaningful interpretations of the clusters and eigenvectors
-- 
+- Unsupervised Learning Topics: 
+    - Clustering (and distance measures)
+    - Eigenvectors/eigenvalues
+    - Principal component analysis
+
+- Projects: 
+    - Real-time financial crisis prediction based on macroeconomic indicators (time series); This supervised learning project included feature engineering, oversampling, feature selection and data cleaning
+    - Constructed a global minimum variance portfolio using different regularizers and sliding window validation to find optimal parameters
+    - Applied clustering techniques and PCA on daily equity return data to find meaningful interpretations of the clusters and eigenvectors
+
 ## COMP0040: Financial Data and Statistics 
 Projects:
 - Investigated empirical probability distributions, tail behaviour and risk measures (VaR \& CVaR) of Cryptocurrencies for different time horizons
