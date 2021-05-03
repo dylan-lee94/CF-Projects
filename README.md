@@ -3,6 +3,9 @@
 This repository is a collection of coding projects from my Master's at UCL. 
 
 ## COMP0050: Machine Learning with Applications in Finance
+Topics: 
+Supervised and Unsupervised learning methods
+
 Projects: 
 - Real-time financial crisis prediction based on macroeconomic indicators (time series); This supervised learning project included feature engineering, oversampling, feature selection and data cleaning
 - Constructed a global minimum variance portfolio using different regularizers and sliding window validation to find optimal parameters
@@ -14,11 +17,25 @@ Projects:
 - Examined the time scaling properties, including stationarity, autocorrelation and generalized Hurst exponent
 - Quantified the dependency between crypto assets returns the effect of textual sentiment by utilising Mutual Information and Correlation (linear \& non-linear).%; This includes the calculation of p-values (permutation test) and confidence intervals (bootstrapping)
 ## COMP0041: Applied Computational Finance
+Applied the Binomial Model, Finite Difference Methods and Monte Carlo for option pricing. 
+
 ## COMP0043: Numerical Methods for Finance
+Topics: 
+- Random Numbers generation, Distribution Sampling
+- Monte Carlo methods
+- Stochastic Processes 
+- Fourier Transform methods in the context of option pricing. 
+
 Projects: 
 - Pricing of vanilla and exotic options using the Binomial Model, Monte Carlo Methods, Fast Fourier Transforms and Black–Scholes–Merton Model. 
 
 ## COMP0045: Probability Theory and Stochastic Processes Learning with Applications in Finance
+Topics: 
+- Stochastic processes
+- Stochastic Calculus
+- Option Pricing
+- Stochastic Interest Rate Modelling
+
 ## COMP0048: Financial Engineering
 
 ## COMP0051: Algorithmic Trading
