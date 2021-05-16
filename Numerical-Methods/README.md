@@ -1,2 +1,3 @@
 # Numerical Methods for Finance
-Pricing of vanilla and exotic options using the Binomial Model, Monte Carlo Methods, Fast Fourier Transforms and Black–Scholes–Merton Model. 
+- Pricing of vanilla and exotic options using the Binomial Model, Monte Carlo Methods, Fast Fourier Transforms and Black–Scholes–Merton Model. 
+- sampling methods
