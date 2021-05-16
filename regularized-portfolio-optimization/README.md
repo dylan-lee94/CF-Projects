@@ -1,2 +1,2 @@
 # portfolio-optimization
-Sliding Window based Portfolio Optimization with optional Regularization and Cross Validation
+- Global minimum variance portfolio with optional Regularization and sliding window cross validation to find optimal hyperparameters
