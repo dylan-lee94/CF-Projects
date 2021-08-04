@@ -26,7 +26,9 @@ This repository is a collection of coding projects from my Master's at UCL.
 Projects:
 - Investigated empirical probability distributions, tail behaviour and risk measures (VaR \& CVaR) of Cryptocurrencies for different time horizons
 - Examined the time scaling properties, including stationarity, autocorrelation and generalized Hurst exponent
-- Quantified the dependency between crypto assets returns the effect of textual sentiment by utilising Mutual Information and Correlation (linear \& non-linear).%; This includes the calculation of p-values (permutation test) and confidence intervals (bootstrapping)
+- Quantified the dependency between crypto assets returns the effect of textual sentiment by utilising Mutual Information and Correlation (linear & non-linear). This includes the calculation of p-values (permutation test) and confidence intervals (bootstrapping)
+
+
 ## COMP0041: Applied Computational Finance
 Applied the Binomial Model, Finite Difference Methods and Monte Carlo for option pricing. 
 
